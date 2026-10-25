@@ -1,0 +1,23 @@
+# Innocent words that a rule in words.txt would otherwise catch: a word a line; word* for words that start so.
+# (Whole-word rules need none: "ass" never matches "class", "cock" never "cocktail".)
+
+# *shit*: shiitake, with its i stretched, reads as "shit"
+shiitake*
+shitake*
+# wank*
+wankel*
+# rape*
+rapeseed*
+# pedo*
+pedometer*
+pedology*
+# retard*
+retardant*
+# nigg*
+niggard*
+niggle*
+niggling*
+# crap*
+crappie*
+# piss*
+pissarro*
