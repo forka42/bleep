@@ -3,8 +3,8 @@ plugins {
     `maven-publish`
 }
 
-group = "io.github.pingsocc"
-version = "0.1.0"
+group = "io.github.forka42"
+version = "0.2.0"
 
 repositories { mavenCentral() }
 
@@ -38,7 +38,7 @@ publishing {
             pom {
                 name = "Bleep"
                 description = "A small, fast swear filter for Java, built for English game chat."
-                url = "https://github.com/pingsocc/bleep"
+                url = "https://github.com/forka42/bleep"
                 licenses {
                     license {
                         name = "MIT License"

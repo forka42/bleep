@@ -1,4 +1,4 @@
-package io.github.pingsocc.bleep;
+package io.github.forka42.bleep;
 
 import java.text.Normalizer;
 import java.util.HashMap;

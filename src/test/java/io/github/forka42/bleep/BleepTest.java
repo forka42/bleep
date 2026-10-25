@@ -1,4 +1,4 @@
-package io.github.pingsocc.bleep;
+package io.github.forka42.bleep;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

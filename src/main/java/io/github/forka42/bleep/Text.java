@@ -1,4 +1,4 @@
-package io.github.pingsocc.bleep;
+package io.github.forka42.bleep;
 
 /**
  * A message as Bleep reads it: a row of units, each a character that stands for a letter (or letters, or none), with

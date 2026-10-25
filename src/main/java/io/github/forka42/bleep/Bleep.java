@@ -1,4 +1,4 @@
-package io.github.pingsocc.bleep;
+package io.github.forka42.bleep;
 
 import java.io.IOException;
 import java.io.InputStream;

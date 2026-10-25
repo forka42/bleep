@@ -5,7 +5,7 @@ A small, fast swear filter for Java. It sees through leetspeak, look-alike lette
 
 ```kotlin
 repositories { maven("https://jitpack.io") }
-dependencies { implementation("com.github.pingsocc:bleep:main-SNAPSHOT") }
+dependencies { implementation("com.github.forka42:bleep:v0.2.0") }
 ```
 
 ```java
